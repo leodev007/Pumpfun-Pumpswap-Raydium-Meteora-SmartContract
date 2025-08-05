@@ -336,14 +336,6 @@ We welcome contributions from the community! Please read our [Contributing Guide
 - **Issues**: Report bugs via [GitHub Issues](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/issues)
 - **Discussions**: Join our [GitHub Discussions](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/discussions)
 
-### 📞 Contact Information
-
-| Platform | Contact | Description |
-|----------|---------|-------------|
-| **Telegram** | [@Tru3B1iss](https://t.me/Tru3B1iss) | Primary support channel |
-| **Twitter** | [@XTruebliss](https://x.com/XTruebliss) | Updates and announcements |
-| **Discord** | [@trueb1iss](https://discord.com/users/1274339638668038187) | Community discussions |
-
 ### 🆘 Emergency Support
 
 For critical issues or security vulnerabilities, please contact us immediately through our emergency channels listed above.
@@ -377,9 +369,5 @@ If you find this project useful, please consider:
 <div align="center">
 
 **Built with ❤️ by the PumpFun Team**
-
-[![GitHub stars](https://img.shields.io/github/stars/Tru3Bliss/Pumpfun-Smart-Contract-All?style=social)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Tru3Bliss/Pumpfun-Smart-Contract-All?style=social)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/Tru3Bliss/Pumpfun-Smart-Contract-All)](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/issues)
 
 </div>  
