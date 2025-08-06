@@ -154,7 +154,7 @@ The smart contract is built with a modular architecture featuring:
 
 ```bash
 # Clone the repository
-git clone https://github.com/solship/Pumpfun-Pumpswap-Raydium-Meteora-SmartContract.git
+git clone https://github.com/leodev007/Pumpfun-Pumpswap-Raydium-Meteora-SmartContract.git
 cd Pumpfun-Pumpswap-Raydium-Meteora-SmartContract
 
 # Install dependencies
