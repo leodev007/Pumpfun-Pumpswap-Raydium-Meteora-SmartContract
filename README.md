@@ -333,8 +333,8 @@ We welcome contributions from the community! Please read our [Contributing Guide
 ### 🆘 Getting Help
 
 - **Documentation**: Check our [comprehensive docs](docs/)
-- **Issues**: Report bugs via [GitHub Issues](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/issues)
-- **Discussions**: Join our [GitHub Discussions](https://github.com/Tru3Bliss/Pumpfun-Smart-Contract-All/discussions)
+- **Issues**: Report bugs via [GitHub Issues](https://github.com/leodev007/Pumpfun-Smart-Contract-All/issues)
+- **Discussions**: Join our [GitHub Discussions](https://github.com/leodev007/Pumpfun-Smart-Contract-All/discussions)
 
 ### 🆘 Emergency Support
 
