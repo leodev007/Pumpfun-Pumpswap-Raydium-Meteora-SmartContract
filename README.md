@@ -368,6 +368,6 @@ If you find this project useful, please consider:
 
 <div align="center">
 
-**Built with ❤️ by the PumpFun Team**
+**Built with ❤️ by LEO**
 
 </div>  
